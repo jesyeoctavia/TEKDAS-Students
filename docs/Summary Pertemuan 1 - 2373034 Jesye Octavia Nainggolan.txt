@@ -1,0 +1,10 @@
+1. Lapisan mana yang paling saya pahami?
+Saya memahami lapisan penggunaan tools seperti Python, Jupyter, dan VS Code.
+
+2. Lapisan mana yang masih saya campuradukkan?
+Saya masih mencampuradukkan beberapa bagian dalam proses pengerjaan proyek, terutama virtual environment, Quarto, dan proses render. Saya belum sepenuhnya memahami fungsi masing-masing dan hubungan ketiganya dalam menjalankan dan menghasilkan output dari proyek. Saya masih perlu memahami bagaimana alat yang digunakan untuk mengerjakan proyek.
+
+3. Bukti apa  yang membuat sebuah system layak disebut "cerdas" dan bertanggung jawab?
+Sebuah sistem dianggap cerdas jika mampu memanfaatkan data untuk menghasilkan analisis, prediksi, atau keputusan yang membantu menyelesaikan masalah. Sebuah sistem disebut bertanggung jawab jika proses dan hasilnya dapat diperiksa, dijelaskan, dan didukung oleh data yang relevan.
+
+tutup dengan pengantar: minggu depan mahasiswa tidak langsung memilih algoritma; mereka belajar mengubah dataset menjadi masalah yang sah dan terukur.
