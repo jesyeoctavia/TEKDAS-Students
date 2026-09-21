@@ -1,1 +1,2 @@
 -r ../requirements.txt
+reportlab>=4.0  # diperlukan untuk membangun Laporan_Proyek_Adaptasi.pdf
