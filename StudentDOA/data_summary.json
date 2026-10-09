@@ -1,0 +1,18 @@
+{
+  "rows": 4424,
+  "columns": 35,
+  "missing_cells": 0,
+  "target_counts": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  },
+  "train_rows": 3539,
+  "test_rows": 885,
+  "feature_count": 28,
+  "features_use_first_semester_only": true,
+  "grade_columns_normalized": [
+    "Curricular units 1st sem (grade)",
+    "Curricular units 2nd sem (grade)"
+  ]
+}
